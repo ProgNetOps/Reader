@@ -1,0 +1,140 @@
+C:\Users\Seyi\Downloads\TAM SHEET\Read from xl\Reader\Reader\bin\Debug\net6.0\Reader.exe
+C:\Users\Seyi\Downloads\TAM SHEET\Read from xl\Reader\Reader\bin\Debug\net6.0\Reader.deps.json
+C:\Users\Seyi\Downloads\TAM SHEET\Read from xl\Reader\Reader\bin\Debug\net6.0\Reader.runtimeconfig.json
+C:\Users\Seyi\Downloads\TAM SHEET\Read from xl\Reader\Reader\bin\Debug\net6.0\Reader.dll
+C:\Users\Seyi\Downloads\TAM SHEET\Read from xl\Reader\Reader\bin\Debug\net6.0\Reader.pdb
+C:\Users\Seyi\Downloads\TAM SHEET\Read from xl\Reader\Reader\bin\Debug\net6.0\EPPlus.dll
+C:\Users\Seyi\Downloads\TAM SHEET\Read from xl\Reader\Reader\bin\Debug\net6.0\EPPlus.Interfaces.dll
+C:\Users\Seyi\Downloads\TAM SHEET\Read from xl\Reader\Reader\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+C:\Users\Seyi\Downloads\TAM SHEET\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Seyi\Downloads\TAM SHEET\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Seyi\Downloads\TAM SHEET\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Seyi\Downloads\TAM SHEET\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Seyi\Downloads\TAM SHEET\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Seyi\Downloads\TAM SHEET\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Seyi\Downloads\TAM SHEET\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Seyi\Downloads\TAM SHEET\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Seyi\Downloads\TAM SHEET\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Seyi\Downloads\TAM SHEET\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Seyi\Downloads\TAM SHEET\Read from xl\Reader\Reader\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Seyi\Downloads\TAM SHEET\Read from xl\Reader\Reader\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Seyi\Downloads\TAM SHEET\Read from xl\Reader\Reader\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Seyi\Downloads\TAM SHEET\Read from xl\Reader\Reader\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Seyi\Downloads\TAM SHEET\Read from xl\Reader\Reader\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Seyi\Downloads\TAM SHEET\Read from xl\Reader\Reader\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Seyi\Downloads\TAM SHEET\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.csproj.AssemblyReference.cache
+C:\Users\Seyi\Downloads\TAM SHEET\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seyi\Downloads\TAM SHEET\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.AssemblyInfoInputs.cache
+C:\Users\Seyi\Downloads\TAM SHEET\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.AssemblyInfo.cs
+C:\Users\Seyi\Downloads\TAM SHEET\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.csproj.CoreCompileInputs.cache
+C:\Users\Seyi\Downloads\TAM SHEET\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.csproj.CopyComplete
+C:\Users\Seyi\Downloads\TAM SHEET\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.dll
+C:\Users\Seyi\Downloads\TAM SHEET\Read from xl\Reader\Reader\obj\Debug\net6.0\refint\Reader.dll
+C:\Users\Seyi\Downloads\TAM SHEET\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.pdb
+C:\Users\Seyi\Downloads\TAM SHEET\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.genruntimeconfig.cache
+C:\Users\Seyi\Downloads\TAM SHEET\Read from xl\Reader\Reader\obj\Debug\net6.0\ref\Reader.dll
+C:\Users\Seyi\Desktop\ENTERPRISE DATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Reader.exe
+C:\Users\Seyi\Desktop\ENTERPRISE DATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Reader.deps.json
+C:\Users\Seyi\Desktop\ENTERPRISE DATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Reader.runtimeconfig.json
+C:\Users\Seyi\Desktop\ENTERPRISE DATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Reader.dll
+C:\Users\Seyi\Desktop\ENTERPRISE DATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Reader.pdb
+C:\Users\Seyi\Desktop\ENTERPRISE DATA\Read from xl\Reader\Reader\bin\Debug\net6.0\EPPlus.dll
+C:\Users\Seyi\Desktop\ENTERPRISE DATA\Read from xl\Reader\Reader\bin\Debug\net6.0\EPPlus.Interfaces.dll
+C:\Users\Seyi\Desktop\ENTERPRISE DATA\Read from xl\Reader\Reader\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+C:\Users\Seyi\Desktop\ENTERPRISE DATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Seyi\Desktop\ENTERPRISE DATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Seyi\Desktop\ENTERPRISE DATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Seyi\Desktop\ENTERPRISE DATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Seyi\Desktop\ENTERPRISE DATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Seyi\Desktop\ENTERPRISE DATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Seyi\Desktop\ENTERPRISE DATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Seyi\Desktop\ENTERPRISE DATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Seyi\Desktop\ENTERPRISE DATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Seyi\Desktop\ENTERPRISE DATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Seyi\Desktop\ENTERPRISE DATA\Read from xl\Reader\Reader\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Seyi\Desktop\ENTERPRISE DATA\Read from xl\Reader\Reader\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Seyi\Desktop\ENTERPRISE DATA\Read from xl\Reader\Reader\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Seyi\Desktop\ENTERPRISE DATA\Read from xl\Reader\Reader\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Seyi\Desktop\ENTERPRISE DATA\Read from xl\Reader\Reader\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Seyi\Desktop\ENTERPRISE DATA\Read from xl\Reader\Reader\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Seyi\Desktop\ENTERPRISE DATA\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.csproj.AssemblyReference.cache
+C:\Users\Seyi\Desktop\ENTERPRISE DATA\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seyi\Desktop\ENTERPRISE DATA\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.AssemblyInfoInputs.cache
+C:\Users\Seyi\Desktop\ENTERPRISE DATA\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.AssemblyInfo.cs
+C:\Users\Seyi\Desktop\ENTERPRISE DATA\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.csproj.CoreCompileInputs.cache
+C:\Users\Seyi\Desktop\ENTERPRISE DATA\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.csproj.CopyComplete
+C:\Users\Seyi\Desktop\ENTERPRISE DATA\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.dll
+C:\Users\Seyi\Desktop\ENTERPRISE DATA\Read from xl\Reader\Reader\obj\Debug\net6.0\refint\Reader.dll
+C:\Users\Seyi\Desktop\ENTERPRISE DATA\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.pdb
+C:\Users\Seyi\Desktop\ENTERPRISE DATA\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.genruntimeconfig.cache
+C:\Users\Seyi\Desktop\ENTERPRISE DATA\Read from xl\Reader\Reader\obj\Debug\net6.0\ref\Reader.dll
+C:\Users\Seyi\Desktop\ENTERPRISEDATA\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.csproj.AssemblyReference.cache
+C:\Users\Seyi\Desktop\ENTERPRISEDATA\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seyi\Desktop\ENTERPRISEDATA\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.AssemblyInfoInputs.cache
+C:\Users\Seyi\Desktop\ENTERPRISEDATA\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.AssemblyInfo.cs
+C:\Users\Seyi\Desktop\ENTERPRISEDATA\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.csproj.CoreCompileInputs.cache
+C:\Users\Seyi\Desktop\ENTERPRISEDATA\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.dll
+C:\Users\Seyi\Desktop\ENTERPRISEDATA\Read from xl\Reader\Reader\obj\Debug\net6.0\refint\Reader.dll
+C:\Users\Seyi\Desktop\ENTERPRISEDATA\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.pdb
+C:\Users\Seyi\Desktop\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Reader.exe
+C:\Users\Seyi\Desktop\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Reader.deps.json
+C:\Users\Seyi\Desktop\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Reader.runtimeconfig.json
+C:\Users\Seyi\Desktop\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Reader.dll
+C:\Users\Seyi\Desktop\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Reader.pdb
+C:\Users\Seyi\Desktop\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\EPPlus.dll
+C:\Users\Seyi\Desktop\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\EPPlus.Interfaces.dll
+C:\Users\Seyi\Desktop\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+C:\Users\Seyi\Desktop\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Seyi\Desktop\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Seyi\Desktop\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Seyi\Desktop\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Seyi\Desktop\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Seyi\Desktop\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Seyi\Desktop\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Seyi\Desktop\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Seyi\Desktop\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Seyi\Desktop\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Seyi\Desktop\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Seyi\Desktop\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Seyi\Desktop\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Seyi\Desktop\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Seyi\Desktop\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Seyi\Desktop\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Seyi\Desktop\ENTERPRISEDATA\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.csproj.CopyComplete
+C:\Users\Seyi\Desktop\ENTERPRISEDATA\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.genruntimeconfig.cache
+C:\Users\Seyi\Desktop\ENTERPRISEDATA\Read from xl\Reader\Reader\obj\Debug\net6.0\ref\Reader.dll
+C:\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Reader.exe
+C:\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Reader.deps.json
+C:\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Reader.runtimeconfig.json
+C:\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Reader.dll
+C:\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Reader.pdb
+C:\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\EPPlus.dll
+C:\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\EPPlus.Interfaces.dll
+C:\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+C:\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\ENTERPRISEDATA\Read from xl\Reader\Reader\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\ENTERPRISEDATA\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.csproj.AssemblyReference.cache
+C:\ENTERPRISEDATA\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\ENTERPRISEDATA\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.AssemblyInfoInputs.cache
+C:\ENTERPRISEDATA\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.AssemblyInfo.cs
+C:\ENTERPRISEDATA\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.csproj.CoreCompileInputs.cache
+C:\ENTERPRISEDATA\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.csproj.CopyComplete
+C:\ENTERPRISEDATA\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.dll
+C:\ENTERPRISEDATA\Read from xl\Reader\Reader\obj\Debug\net6.0\refint\Reader.dll
+C:\ENTERPRISEDATA\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.pdb
+C:\ENTERPRISEDATA\Read from xl\Reader\Reader\obj\Debug\net6.0\Reader.genruntimeconfig.cache
+C:\ENTERPRISEDATA\Read from xl\Reader\Reader\obj\Debug\net6.0\ref\Reader.dll
